@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amitengg26.github.io/monster-rolodex-react-app/static/css/main.3e410c51.chunk.css",
+    "main.js": "/amitengg26.github.io/monster-rolodex-react-app/static/js/main.dd665e3f.chunk.js",
+    "main.js.map": "/amitengg26.github.io/monster-rolodex-react-app/static/js/main.dd665e3f.chunk.js.map",
+    "runtime-main.js": "/amitengg26.github.io/monster-rolodex-react-app/static/js/runtime-main.1a6c0871.js",
+    "runtime-main.js.map": "/amitengg26.github.io/monster-rolodex-react-app/static/js/runtime-main.1a6c0871.js.map",
+    "static/js/2.33362a60.chunk.js": "/amitengg26.github.io/monster-rolodex-react-app/static/js/2.33362a60.chunk.js",
+    "static/js/2.33362a60.chunk.js.map": "/amitengg26.github.io/monster-rolodex-react-app/static/js/2.33362a60.chunk.js.map",
+    "static/js/3.56c17dc5.chunk.js": "/amitengg26.github.io/monster-rolodex-react-app/static/js/3.56c17dc5.chunk.js",
+    "static/js/3.56c17dc5.chunk.js.map": "/amitengg26.github.io/monster-rolodex-react-app/static/js/3.56c17dc5.chunk.js.map",
+    "index.html": "/amitengg26.github.io/monster-rolodex-react-app/index.html",
+    "static/css/main.3e410c51.chunk.css.map": "/amitengg26.github.io/monster-rolodex-react-app/static/css/main.3e410c51.chunk.css.map",
+    "static/js/2.33362a60.chunk.js.LICENSE.txt": "/amitengg26.github.io/monster-rolodex-react-app/static/js/2.33362a60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a6c0871.js",
+    "static/js/2.33362a60.chunk.js",
+    "static/css/main.3e410c51.chunk.css",
+    "static/js/main.dd665e3f.chunk.js"
+  ]
+}
