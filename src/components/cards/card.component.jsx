@@ -1,8 +1,7 @@
 import React from 'react'
 import './card.styles.css'
 
-const Card = ({monster}) => {  
-  console.log(monster);  
+const Card = ({monster}) => {    
   return (
     <div className="card-container">
       <img alt="monster" src={`https://robohash.org/${monster.id}?set=set2&size=180x180`} />
